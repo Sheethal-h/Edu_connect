@@ -133,26 +133,26 @@ Welcome to our international collaboration program between Coláiste Nano Nagle 
 
 Purpose of Data Collection:
 We collect and process your personal data to:
-
 Manage your enrollment and participation in the international collaboration program.
 Facilitate communication and collaboration between students and teachers from both schools.
 Provide access to educational resources and support services.
 Monitor and evaluate the program’s effectiveness.
+
 Types of Data Collected:
 The personal data we collect includes:
-
-Name, date of birth, and contact information.
+Name, age, and address.
 Academic records and performance data.
 Attendance and participation records.
 Communication logs and feedback.
+
 Legal Basis for Processing:
-Your data is processed based on your explicit consent, in compliance with GDPR (for data processed within the EU) and relevant Afghan regulations.
+Your data is processed based on your explicit consent, in compliance with GDPR (for data processed within the EU).
 
 Data Sharing and Transfer:
 Your data may be shared with:
-
 Teachers and administrative staff at Coláiste Nano Nagle School and Irshad High School.
 Third-party service providers supporting the program (e.g., learning management systems).
+
 Data Protection Measures:
 We implement the following measures to protect your data:
 
@@ -165,13 +165,12 @@ You have the right to:
 Access your personal data.
 Correct inaccurate data.
 Request data deletion.
-Restrict processing of your data.
 Withdraw your consent at any time.
 Data Retention:
-We will retain your data for the duration of your participation in the program and for [specify duration] thereafter.
+We will retain your data for the duration of your participation in the program and for specify duration thereafter.
 
 Contact Information:
-For any questions or concerns about your data, please contact our Data Protection Officer at [contact information].
+For any questions or concerns about your data, please contact our Data Protection Officer at +3530772022871.
 
 Consent Declaration:
 
@@ -189,21 +188,22 @@ To manage your enrollment and participation in the international collaboration p
 To facilitate communication and collaboration between students and teachers from both schools.
 To provide access to educational resources and support services.
 To monitor and evaluate the program's effectiveness.
+
 Types of Data Collected:
 The personal data we collect includes, but is not limited to:
-
-Name, date of birth, and contact information.
+Name, age, and address.
 Academic records and performance data.
 Attendance and participation records.
 Communication logs and feedback.
+
 Legal Basis for Processing:
 We process your personal data based on your explicit consent, in accordance with Article 6(1)(a) of the GDPR.
 
 Data Sharing and Transfer:
 Your personal data may be shared with:
-
 Teachers and administrative staff at Coláiste Nano Nagle School and Irshad High School.
 Third-party service providers who assist in the operation of the program (e.g., learning management systems, communication platforms).
+
 Data Protection Measures:
 We implement appropriate technical and organizational measures to protect your personal data, including encryption, access controls, and regular security audits, in compliance with Article 32 of the GDPR.
 
@@ -212,15 +212,13 @@ As a data subject, you have the following rights under the GDPR:
 
 The right to access your personal data (Article 15).
 The right to rectify inaccurate or incomplete data (Article 16).
-The right to erase your data (Article 17).
-The right to restrict processing of your data (Article 18).
-The right to data portability (Article 20).
+The right to erase your data (Article 17)(Right to be Forgotten).
 The right to withdraw your consent at any time (Article 7(3)).
 Data Retention:
-We will retain your personal data for the duration of your participation in the program and for a period of [specify duration, e.g., 5 years] thereafter, unless otherwise required by law.
+We will retain your personal data for the duration of your participation in the program and for a specify duration thereafter, unless otherwise required by law.
 
 Contact Information:
-If you have any questions or concerns about your personal data, please contact our Data Protection Officer at [contact information].
+If you have any questions or concerns about your personal data, please contact our Data Protection Officer at +3530772022871.
 
 Consent Declaration:
 
